@@ -1,24 +1,24 @@
-### Hi there 👋
+## Hi there 👋
 
-## My name is **Steve Choi**.
+# My name is **Steve Choi**.
 
 -------------------------
 
-E-mail: <korodd077@gamil.com>
+E-mail: <korodd077@gamil.com><br>
 phone number: 010-1234-5678
 
 -------------------------
 
 * Hobby
-- LOL
-- Singing
-- Watch movie
+  * LOL
+  * Singing
+  * Watch movie
 
 
 * Favorite food
-- Chicken
-- pizza
-- Hamberger
+  * Chicken
+  * pizza
+  * Hamberger
 
 --------------------------
 
